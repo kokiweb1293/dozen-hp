@@ -2005,7 +2005,7 @@ section { padding: var(--section-py) 0; }
 
   /* About page mobile */
   .message-inner { grid-template-columns: 1fr; }
-  .message-photo { max-width: 300px; margin: 0 auto; }
+  .message-photo { max-width: 100%; margin: 0 auto; }
   .message-title { font-size: var(--fs-lg); }
   .clients-list { grid-template-columns: 1fr; }
   .history-list { padding-left: 80px; }
